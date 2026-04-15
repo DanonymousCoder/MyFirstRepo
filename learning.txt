@@ -1,0 +1,4 @@
+- I learnt how to make a commit
+- I learnt how to create a branch
+- I learnt how to fork a repository
+- I learnt how to collaborate with other developers
