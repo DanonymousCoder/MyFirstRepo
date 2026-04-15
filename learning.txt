@@ -1,3 +1,5 @@
+### What I have learned from this course
+
 - I learnt how to make a commit
 - I learnt how to create a branch
 - I learnt how to fork a repository
